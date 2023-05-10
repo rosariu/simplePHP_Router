@@ -1,0 +1,17 @@
+{
+    "name": "rosario/repairpal",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Rosario\\Repairpal\\": "src/",
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rosario"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
